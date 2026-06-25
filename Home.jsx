@@ -113,7 +113,7 @@ const Home = () => {
             </a> */}
 
             <a
-  href="/Ak_CV.pdf"
+  href="/AK_Resume.pdf"
   download="Ayush_Kothalkar_Resume.pdf"
   className="btn btn-outline gap-2"
 >
